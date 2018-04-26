@@ -6888,3 +6888,9 @@ h2 {
 
 footer ul {
   margin-left: -8px; }
+
+.about-header {
+  background-image: url(../homepage-assets/about-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px; }
